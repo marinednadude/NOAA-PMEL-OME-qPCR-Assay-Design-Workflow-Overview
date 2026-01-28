@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to NOAA PMEL OME qPCR Asaay Design Workflow Overview
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a product of the [NOAA PMEL Ocean Molecular Ecology Lab](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology).
+Here we present an overview for how to design a new probe based qPCR assay for eDNA. This is applicable to other assay design (e.g. ddPCR).
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Documentation is hosted on Read the Docs.
+
 
 .. note::
 
