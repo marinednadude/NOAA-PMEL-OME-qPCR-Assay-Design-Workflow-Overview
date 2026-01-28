@@ -1,0 +1,40 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 site_name: NOAA PMEL Overview qPCR Assay Design Workflow Overview\
+theme:\
+  name: readthedocs\
+  highlightjs: true\
+extra_css: [style_2.css]\
+plugins:\
+  - search\
+  - mkdocstrings:\
+      handlers:\
+        # See: https://mkdocstrings.github.io/python/usage/\
+        python:\
+          options:\
+            docstring_style: sphinx\
+markdown_extensions:\
+  - markdown_include.include:\
+      base_path: .\
+  - admonition\
+nav:\
+  - Home: 'index.md'\
+  - \'911. Assemble Existing Data: '01_Assemble_Existing_data.md'\
+  - '02_Sequence_DNA_Gaps.md': '02_Sequence_DNA_Gaps.md'\
+  - '03_Assemble_Mitogenomes_for_target_and_congeners.md': '03_Assemble_Mitogenomes_for_target_and_congeners.md'\
+  - '04_Design_Putative_Assay.md': '04_Design_Putative_Assay.md'\
+  - '05_Test_on_tissues.md': '05_Test_on_tissues.md'\
+  - '06_Determine_LoD_LoQ.md': '06_Determine_LoD_LoQ.md'\
+  - '07_Test_in_mesocosm.md: '07_Test_in_mesocosm.md'\
+  - '08_Test_in_field.md': '08_Test_in_field.md'\
+  - '09_Pair_with_visual_surveys.md':'09_Pair_with_visual_surveys.md'\
+  - 'Discussion Forum (external)': "https://github.com/orgs/NOAA-Omics/discussions"\
+use_directory_urls: false\
+markdown_extensions:\
+  - toc:\
+      permalink: "#"}
