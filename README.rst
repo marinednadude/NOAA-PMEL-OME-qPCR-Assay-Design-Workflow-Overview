@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+NOAA PMEL Overview qPCR Assay Design Workflow Overview
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentation is hosted on Read the Docs
