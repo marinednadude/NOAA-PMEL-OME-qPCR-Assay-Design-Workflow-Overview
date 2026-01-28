@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+NOAA PMEL OME qPCR Assay Design Workflow Overview
 """
 
 __version__ = "0.1.0"
