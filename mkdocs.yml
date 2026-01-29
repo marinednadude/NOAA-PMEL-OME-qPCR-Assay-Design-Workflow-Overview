@@ -17,16 +17,16 @@ markdown_extensions:
   - admonition
 nav:
   - Home: 'index.md'
-  -'1_Assemble Existing Data': '01_Assemble_Existing_data.md'
-  -'02_Sequence_DNA_Gaps.md': '02_Sequence_DNA_Gaps.md'
-  -'03_Assemble_Mitogenomes_for_target_and_congeners.md': '03_Assemble_Mitogenomes_for_target_and_congeners.md'
-  -'04_Design_Putative_Assay.md': '04_Design_Putative_Assay.md'
-  -'05_Test_on_tissues.md': '05_Test_on_tissues.md'
-  -'06_Determine_LoD_LoQ.md': '06_Determine_LoD_LoQ.md'
-  -'07_Test_in_mesocosm.md': '07_Test_in_mesocosm.md'
-  -'08_Test_in_field.md': '08_Test_in_field.md'
-  -'09_Pair_with_visual_surveys.md': '09_Pair_with_visual_surveys.md'
-  -'Discussion Forum (external)': "https://github.com/orgs/NOAA-Omics/discussions"
+  - 'Assemble Existing Data': '01_Assemble_Existing_data.md'
+  - 'Sequence DNA Gaps': '02_Sequence_DNA_Gaps.md'
+  - 'Assemble Mitogenomes for target and congeners': '03_Assemble_Mitogenomes_for_target_and_congeners.md'
+  - 'Design Putative Assay': '04_Design_Putative_Assay.md'
+  - 'Test on tissues': '05_Test_on_tissues.md'
+  - 'Determine LoD  & LoQ': '06_Determine_LoD_LoQ.md'
+  - 'Test in mesocosm': '07_Test_in_mesocosm.md'
+  - 'Test in field': '08_Test_in_field.md'
+  - 'Pair with visual surveys': '09_Pair_with_visual_surveys.md'
+  - 'Discussion Forum (external)': "https://github.com/orgs/NOAA-Omics/discussions"
 use_directory_urls: false
 markdown_extensions:
   - toc:
