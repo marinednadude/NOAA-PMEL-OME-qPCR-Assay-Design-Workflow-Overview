@@ -21,7 +21,7 @@ nav:
   - 'Sequence DNA Gaps': '02_Sequence_DNA_Gaps.md'
   - 'Assemble Mitogenomes for target and congeners': '03_Assemble_Mitogenomes_for_target_and_congeners.md'
   - 'Design Putative Assay': '04_Design_Putative_Assay.md'
-  - ' Test on tissues': '05_Test_on_tissues.md'
+  - 'Test on tissues': '05_Test_on_tissues.md'
   - 'Determine LoD  & LoQ': '06_Determine_LoD_LoQ.md'
   - 'Test in mesocosm': '07_Test_in_mesocosm.md'
   - 'Test in field': '08_Test_in_field.md'
