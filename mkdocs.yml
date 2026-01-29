@@ -30,4 +30,4 @@ nav:
 use_directory_urls: false
 markdown_extensions:
   - toc:
-      permalink: "#"}
+      permalink: "#"
